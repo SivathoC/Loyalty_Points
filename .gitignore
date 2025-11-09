@@ -22,3 +22,11 @@ gradle-app.setting
 
 # maven specific files
 target/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
